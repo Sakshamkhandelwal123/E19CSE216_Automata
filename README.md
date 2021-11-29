@@ -1,4 +1,4 @@
-# E19CSE216_Automata
+# E19CSE216_Automata Dark Knights
 
 ## For code 1 you have to give input like this :- 
 Enter the no. of states: 4  
